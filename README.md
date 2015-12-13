@@ -1,5 +1,9 @@
 # Hasami
 
+[![Build Status](https://travis-ci.org/jiunjiun/hasami.svg?branch=master)](https://travis-ci.org/jiunjiun/hasami)
+[![Code Climate](https://codeclimate.com/repos/566d52fd97d7241309001da7/badges/37f78d35576130bc85fc/gpa.svg)](https://codeclimate.com/repos/566d52fd97d7241309001da7/feed)
+[![security](https://hakiri.io/github/jiunjiun/hasami/master.svg)](https://hakiri.io/github/jiunjiun/hasami/master)
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hasami`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
