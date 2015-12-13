@@ -2,7 +2,7 @@ module FlightParse
   # attr_accessor :url, :flights
 
   def source_url(url = nil)
-    @url = url.nil? || url.length == 0 ? Settings::FLIGHT_URL : url
+    @url = url.nil? || url.length == 0 ? HasamiSettings::FLIGHT_URL : url
   end
 
   def flights_parse

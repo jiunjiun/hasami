@@ -5,7 +5,7 @@ require 'hasami/settings'
 
 Gem::Specification.new do |spec|
   spec.name          = "hasami"
-  spec.version       = Hasami::VERSION
+  spec.version       = HasamiSettings::VERSION
   spec.authors       = ["jiunjiun"]
   spec.email         = ["quietmes@gmail.com"]
 
