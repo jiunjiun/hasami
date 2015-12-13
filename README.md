@@ -5,9 +5,10 @@
 [![security](https://hakiri.io/github/jiunjiun/hasami/master.svg)](https://hakiri.io/github/jiunjiun/hasami/master)
 
 桃園國際機場航班資訊 API
+
 This API helper get Taoyuan International Airport flight info
 
-source: [link](http://www.taoyuan-airport.com/chinese/flighttxt)
+source: [http://www.taoyuan-airport.com/chinese/flighttxt](http://www.taoyuan-airport.com/chinese/flighttxt)
 
 ## Installation
 
@@ -34,7 +35,6 @@ require 'hasami'
 ### All flights
 ```
 haha = Hasami.new
-
 haha.flights # All flights
 ```
 
@@ -104,10 +104,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hasami. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jiunjiun/hasami. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
-## License
-
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
+## Copyright / License
+* Copyright (c) 2015 jiunjiun (quietmes At gmail.com)
+* The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
