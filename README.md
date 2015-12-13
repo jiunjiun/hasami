@@ -6,7 +6,7 @@
 
 桃園國際機場航班資訊 API
 
-This API helper get Taoyuan International Airport flight info
+This gem helper get Taoyuan International Airport flight info
 
 source: [http://www.taoyuan-airport.com/chinese/flighttxt](http://www.taoyuan-airport.com/chinese/flighttxt)
 

@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["quietmes@gmail.com"]
 
   spec.summary       = %q{Hasami}
-  spec.description   = %q{This API helper get Taoyuan airport flight info}
-  spec.homepage      = ""
+  spec.description   = %q{This gem helper get Taoyuan airport flight info}
+  spec.homepage      = "https://github.com/jiunjiun/hasami"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
